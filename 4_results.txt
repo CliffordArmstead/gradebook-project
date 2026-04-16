@@ -1,0 +1,9 @@
+Task 4 Output:
+AVG = 90
+MAX = 95
+MIN = 85
+
+Task 5 Output:
+Alice
+Bob
+Charlie
